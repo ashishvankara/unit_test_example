@@ -4,4 +4,5 @@ python:
 install:
       - pip install -r requirements.txt
 script: 
-      - pytest -v --cov --pep8
+      - pytest -v 
+    #      - pytest -v --cov --pep8
