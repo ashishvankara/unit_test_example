@@ -6,4 +6,4 @@ def test_sum_list():
 def test_min_max():
     from do_stuff import min_max_list
     (a, b) = min_max_list([5, 4, 1, 2])
-    assert a == 2
+    assert a == 1
