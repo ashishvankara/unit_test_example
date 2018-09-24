@@ -7,6 +7,7 @@ def sum_list(number_list):
 
     return s
 
+
 def min_max_list(number_list):
     """find the min/max of the list
     """
@@ -17,4 +18,3 @@ def min_max_list(number_list):
     ma = d.max()
 
     return (mi, ma)
-
